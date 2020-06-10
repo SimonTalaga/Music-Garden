@@ -1,9 +1,6 @@
 # Music Garden
  A synesthesic experiment that creates a 3D landscape out of the timbre of an instrument.
 
-## Screenshots
-
-
 
 ## Artistic concept
 
@@ -12,6 +9,11 @@ This sketch is a *first attempt* toward this aim, but I’m quite happy with the
 
 On a philosophical level, I learned this year from my philosophy course about the Presocratic thinkers about Heraclitus’s *logos*, which is, to simplify, the “rule”, *unintelligible* in its entirety for the human mind, which governs all the of the world's phenomenon as well as explaining why things are as they are. Every phenomenon is thus a **partial expression of it**, a *filtered* intelligible part of this unfathomable unity. There is unintelligibility at music’s core too, and the famous French philosopher Vladimir Jankélévitch even wrote a book called La Musique et l'Ineffable (Ineffable means “unspeakable”). 
 How would it be like if my beloved [Mozart’s D minor Concerto](https://www.youtube.com/watch?v=UGldgW6mDnY) was the *logos* of a tiny virtual world? If, instead of the word, it was music “at the beginning”? May the real world’s logos be a divine music? The Ancients may have thought this since Pythagoras, as they believed in something called [Musica Universalis](https://en.wikipedia.org/wiki/Musica_universalis) which is one of my major inspirations, and a broad area for further research to flesh out these ideas.
+
+## Screenshots
+
+![FirstScreenShot](https://github.com/SimonTalaga/Music-Garden/blob/master/screenshots/2.png)
+![SecondScreenShot](https://github.com/SimonTalaga/Music-Garden/blob/master/screenshots/1.png)
 
 ## Technical Challenges, what I found
 First, there is something I found extremely interesting that I certainly hoped, but wasn’t really expecting: **a sound feeling smooth or sweet to the ear generates a smooth landscape, and conversely!** This is a good sign in favour of the plausibility of my extended concept, at least. 
