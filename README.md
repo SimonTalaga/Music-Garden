@@ -21,6 +21,6 @@ For my experimentation, I wanted to isolate the **waveform** that defines a pecu
 
 With the same input sound file, the gardens generated are different and I think this is due to the framerate. Each frame samples the sound, and this sampling moments are always different. It’s interesting (and relieving) to notice that however different the terrain may be, its global “feel” remains the same for a given timbre.
 
-## What I intended to realize and will do in the future
+## What I intend to realize and will do in the future
 I wanted to add some noise to increase the terrain’s details in a near future.
 Here I focused on the spectrum (the timbre signature to be more precise), but as I’ll learn more about music information retrieval, I will try to add a new phenomenon (as I explained earlier) to this world for each “filtered”, extracted single music feature. I could include some *qualitative features*, (chosen colours maps depending on the musical genre for instance), instead of purely *quantitative parameters*. A good start could be [Spotify’s Track Analysis API](https://developer.spotify.com/documentation/web-api/reference/tracks/), which provides very interesting characteristics of a song, such as its level of *acousticness*, *speachiness*, and *valence*, i.e. the amount of “positive vibes” in a track! The ideas will come in number.
