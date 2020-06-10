@@ -1,5 +1,5 @@
 # Music Garden
- A synesthesic experiment that creates a 3D landscape out of the timbre of an instrument.
+ A **synesthesic experiment** that creates a 3D landscape out of the **timbre** of an instrument.
 
 
 ## Artistic concept
@@ -7,7 +7,9 @@
 I wrote this program after having become obsessed with this idea : *"What could a music look like? Could it be a landscape? Is there a relationship between the auditive quality of the music and its potential visual qualities? Could a visualization be really unique depending on the features of the music?"*. I realized that I wanted to investigate if I could, using Creative Computing, draw a **landscape based on my favorite music** (and allow other people to do the same) and **make it look completely unique** (which is a challenge for all generative art). How amazing would it be, dreamt-I, if we could, in a video game for instance, **find some peace in a garden shaped by the music that most relieves us.** when we’re in trouble, explore it, and play in it. 
 This sketch is a *first attempt* toward this aim, but I’m quite happy with these early results.
 
-On a philosophical level, I learned this year from my philosophy course about the Presocratic thinkers about Heraclitus’s *logos*, which is, to simplify, the “rule”, *unintelligible* in its entirety for the human mind, which governs all the of the world's phenomenon as well as explaining why things are as they are. Every phenomenon is thus a **partial expression of it**, a *filtered* intelligible part of this unfathomable unity. There is unintelligibility at music’s core too, and the famous French philosopher Vladimir Jankélévitch even wrote a book called La Musique et l'Ineffable (Ineffable means “unspeakable”). 
+On a philosophical level, I learned this year from my philosophy course about the Presocratic thinkers about Heraclitus’s *logos*, which is, to simplify, the “rule”, *unintelligible* in its entirety for the human mind, which governs all the of the world's phenomenon as well as explaining why things are as they are. Every phenomenon is thus a **partial expression of it**, a *filtered* intelligible part of this unfathomable unity. There is unintelligibility at music’s core too, a *je-ne-sais-quoi*. As the famous French philosopher Vladimir Jankélévitch writes in his book called *La Musique et l'Ineffable* (Ineffable means “unspeakable”).
+> La musique est un charme : faite de rien, tenant à rien, peut-être même n'est-elle rien, du moins pour celui qui s'attend à trouver quelque chose ou à palper une chose ; comme une bulle de savon brisée qui tremble et brille quelques secondes au soleil, elle crève dès qu'on la touche. Elle n'existe que dans la très douteuse et fugitive exaltation d'une minute opportune... Le charme de la musique nous est précieux comme nous sont précieux l'enfance, l'innocence ou les êtres chers voués à la mort; le charme est labile et fragile, et le pressentiment de sa caducité enveloppe d'une poétique mélancolie l'état de grâce qu'il suscite...
+
 How would it be like if my beloved [Mozart’s D minor Concerto](https://www.youtube.com/watch?v=UGldgW6mDnY) was the *logos* of a tiny virtual world? If, instead of the word, it was music “at the beginning”? May the real world’s logos be a divine music? The Ancients may have thought this since Pythagoras, as they believed in something called [Musica Universalis](https://en.wikipedia.org/wiki/Musica_universalis) which is one of my major inspirations, and a broad area for further research to flesh out these ideas.
 
 ## Screenshots
